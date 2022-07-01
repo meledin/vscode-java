@@ -11,4 +11,4 @@ vscode:
     - vscjava.vscode-maven@0.36.0
     - vscjava.vscode-java-dependency@0.20.0
     - Pivotal.vscode-boot-dev-pack
-    - vscjava.vscode-java-test@0.35.1
+    - vscjava.vscode-java-test@0.35.0
