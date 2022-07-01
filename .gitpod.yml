@@ -1,0 +1,14 @@
+
+tasks:
+  - init: ./mvnw install -DskipTests=false
+
+
+image: gitpod/workspace-java-17
+vscode:
+  extensions:
+    - redhat.java@1.8.0
+    - vscjava.vscode-java-debug@0.42.0
+    - vscjava.vscode-maven@0.36.0
+    - vscjava.vscode-java-dependency@0.20.0
+    - Pivotal.vscode-boot-dev-pack
+    - vscjava.vscode-java-test@0.35.1
